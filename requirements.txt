@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+fpdf2
+numpy
+torch
+torchvision
+Pillow
+matplotlib
+pandas
